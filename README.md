@@ -1,1 +1,1 @@
-# chainer-learning-to-remember-rare-events
+# chainer-feedbacknet
